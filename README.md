@@ -6,6 +6,9 @@ Hello there.
   <a href="https://www.linkedin.com/in/aditya-mangla/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+     <a href="https://orcid.org/0000-0003-2588-014X">
+    <img src="https://img.shields.io/badge/Orcid-green?style=for-the-badge&logo=orcid&logoColor=white" alt="Twitter Badge"/>
+  </a>
   <a href="https://twitter.com/AdityaRootM">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
