@@ -16,9 +16,9 @@ Hello there.
 
 ---
 <p align="center">
-I am an undergraduate student studying in Hong Kong currently working as a research physicist working on satellite technology and simulations. I have full-stack development experience throughout numerous companies and projects however specialize in backend development and python.
+I am an undergraduate student studying in Hong Kong currently working as a research physicist developing simulations for a satellite. I have full-stack development experience throughout numerous companies and projects however specialize in backend development and python.
 <br>
-I am also a major open source and privacy advocate. I have my PGP public key in this repo available if you would like to encrypt or send anything through it.
+I am also a major open source and privacy advocate. I have my PGP public key available <a href="https://github.com/AdityaRoot/AdityaRoot/blob/main/pgp_public_key.txt" alt="PGP Public Key Link"> here. </a>
 </p>
 
 ---
