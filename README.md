@@ -10,7 +10,7 @@ Hello there.
     <img src="https://img.shields.io/badge/Orcid-green?style=for-the-badge&logo=orcid&logoColor=white" alt="Twitter Badge"/>
   </a> -->
     <a href="adityavmangla.com">
-    <img src="  https://img.shields.io/badge/-Personal%20Website-blue?style=for-the-badge&logo=internetexplorer&logoColor=white" alt="Personal Site badge"/>
+    <img src="https://img.shields.io/badge/-Personal%20Website-blue?style=for-the-badge&logo=internetexplorer&logoColor=white" alt="Personal Site badge"/>
   </a>
   <a href="https://twitter.com/AdityaRootM">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
