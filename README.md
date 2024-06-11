@@ -12,9 +12,9 @@ Hello there.
     <a href="adityavmangla.com">
     <img src="https://img.shields.io/badge/-Personal%20Website-blue?style=for-the-badge&logo=internetexplorer&logoColor=white" alt="Personal Site badge"/>
   </a>
-  <a href="https://twitter.com/AdityaRootM">
+<!--   <a href="https://twitter.com/AdityaRootM">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+  </a> -->
 </div>
 
 ---
