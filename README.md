@@ -22,6 +22,7 @@ Hello.
 I am an undergraduate student studying Physics and Computer Science in Hong Kong. I have experience as a Quant and Developer and am currently interning within the buy-side.
 <br>
 <!-- I am also a major open source and privacy advocate. I have my PGP public key available <a href="https://github.com/AdityaRoot/AdityaRoot/blob/main/pgp_public_key.txt" alt="PGP Public Key Link"> here. </a> -->
+  I am seeking ongoing opportunities in this space, if you are a recruiter - feel free to get in touch and I can share more of my portfolio with you.
 </p>
 
 ---
