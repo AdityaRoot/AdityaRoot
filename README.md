@@ -1,6 +1,6 @@
 
 <h1 align="center">
-Hello there.
+Hello.
 </h1>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/aditya-mangla/">
